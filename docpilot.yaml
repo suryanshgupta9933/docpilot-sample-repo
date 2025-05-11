@@ -4,4 +4,4 @@ docs_dir: api_docs/
 pr_settings:
   branch_name: feature/api-docs
   title: "API Documentation [Docpilot]"
-  labels: ["api-docs", "docpilot"]
+  labels: ["docpilot"]
