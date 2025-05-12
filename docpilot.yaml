@@ -2,6 +2,6 @@ auto_docs: true
 framework: fastapi
 docs_dir: api_docs/
 pr_settings:
-  branch_name: feature/api-docs
-  title: "API Documentation [Docpilot]"
+  branch_name: api-docs
+  title: "API Docs [Docpilot]"
   labels: ["docpilot"]
