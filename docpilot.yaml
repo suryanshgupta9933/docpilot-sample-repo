@@ -3,5 +3,5 @@ framework: fastapi
 docs_dir: api_docs/
 pr_settings:
   branch_name: api-docs
-  title: "API Docs [Docpilot]"
+  title: "API Docs  [Docpilot]"
   labels: ["docpilot"]
